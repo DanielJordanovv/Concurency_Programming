@@ -1,0 +1,9 @@
+C:\Users\Student\Documents\11b 4\misc\FileReadingBlocking\FileReadingBlocking\bin\Debug\FileReadingBlocking.exe.config
+C:\Users\Student\Documents\11b 4\misc\FileReadingBlocking\FileReadingBlocking\bin\Debug\FileReadingBlocking.exe
+C:\Users\Student\Documents\11b 4\misc\FileReadingBlocking\FileReadingBlocking\bin\Debug\FileReadingBlocking.pdb
+C:\Users\Student\Documents\11b 4\misc\FileReadingBlocking\FileReadingBlocking\obj\Debug\FileReadingBlocking.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\11b 4\misc\FileReadingBlocking\FileReadingBlocking\obj\Debug\FileReadingBlocking.Properties.Resources.resources
+C:\Users\Student\Documents\11b 4\misc\FileReadingBlocking\FileReadingBlocking\obj\Debug\FileReadingBlocking.csproj.GenerateResource.cache
+C:\Users\Student\Documents\11b 4\misc\FileReadingBlocking\FileReadingBlocking\obj\Debug\FileReadingBlocking.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\11b 4\misc\FileReadingBlocking\FileReadingBlocking\obj\Debug\FileReadingBlocking.exe
+C:\Users\Student\Documents\11b 4\misc\FileReadingBlocking\FileReadingBlocking\obj\Debug\FileReadingBlocking.pdb
